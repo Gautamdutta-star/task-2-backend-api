@@ -1,4 +1,4 @@
-# Task 2 - Backend API
+# Backend API
 
 A RESTful Backend API built using FastAPI for managing Projects and Tasks.
 
